@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [1.28_LCD'Touch.PrjPcb]
+   Generated File[Fabrication Testpoint Report for 1.28'LCD.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:43:39 On 2022/5/17
